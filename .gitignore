@@ -1,2 +1,4 @@
 win32-build/
 simulator/
+frameworks/cocos2d-x/
+frameworks/runtime-src/proj.android/app/assets/
